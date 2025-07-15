@@ -63,3 +63,7 @@ form input, form textarea {
     width: 100%;
     margin-bottom: 10px;
 }
+
+.image {
+    max-width: 400px;
+}
